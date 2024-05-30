@@ -1,6 +1,5 @@
 ---
- <H1>Proje : CNN ile Gerçek ve Sahte Yüz Görüntülerinin Sınıflandırılması* 
-</H1>
+ Proje : CNN ile Gerçek ve Sahte Yüz Görüntülerinin Sınıflandırılması* 
 
 Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliği Bölümü olarak, 2023-2024 Bahar dönemi projemizin sonuçlarını sizlerle paylaşmaktan büyük mutluluk duyuyoruz! Takım arkadaşım Senanur Bayram ile birlikte, Görüntü İşleme dersi kapsamında, derin öğrenme modellerini kullanarak gerçek ve sahte yüz görüntülerinin sınıflandırılmasına yönelik kapsamlı bir çalışma gerçekleştirdik.
 
