@@ -1,3 +1,7 @@
+Tabii, işte düzeltilmiş versiyon:
+
+---
+
 🌟 **CNN ile Gerçek ve Sahte Yüz Görüntülerinin Sınıflandırılması** 🌟
 
 Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliği Bölümü olarak, 2023-2024 Bahar dönemi projemizin sonuçlarını sizlerle paylaşmaktan büyük mutluluk duyuyoruz! Takım arkadaşım Senanur Bayram ile birlikte, Görüntü İşleme dersi kapsamında, derin öğrenme modellerini kullanarak gerçek ve sahte yüz görüntülerinin sınıflandırılmasına yönelik kapsamlı bir çalışma gerçekleştirdik.
@@ -13,4 +17,4 @@ Karadeniz Teknik Üniversitesi, Of Teknoloji Fakültesi, Yazılım Mühendisliğ
 - Veri artırma tekniklerinin kullanımı, model doğruluğunu önemli ölçüde artırdı.
 - Adamax gibi optimizasyon algoritmaları ve Tanh gibi aktivasyon fonksiyonları, deneylerimizde en iyi sonuçları verdi.
 
-
+Detaylı bilgi ve bulgularımızı içeren proje raporumuza [buradan](https://www.linkedin.com/feed/update/urn:li:activity:7201846013509222401/) ulaşabilirsiniz.
